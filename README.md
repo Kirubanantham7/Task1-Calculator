@@ -17,9 +17,28 @@ A simple yet elegant Command Line Interface (CLI) calculator built with Python. 
 ---
 
 ##  Screenshot
+---------------
 
 
-![CLI Calculator Screenshot](screenshot.png)
+![CLI Calculator Screenshot](images/Calculator_Addition_option.png)
+
+----------------------------------------------------------------------
+
+![CLI Calculator Screenshot](images/Calculator_Subtract_option.png)
+
+----------------------------------------------------------------------
+
+![CLI Calculator Screenshot](images/Calculator_Multiply.png)
+
+----------------------------------------------------------------------
+
+![CLI Calculator Screenshot](images/Calculator_Divide_option.png)
+
+----------------------------------------------------------------------
+
+![CLI Calculator Screenshot](images/Calculator_Exit_option.png)
+
+----------------------------------------------------------------------
 
 ---
 
